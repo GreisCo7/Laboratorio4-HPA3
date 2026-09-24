@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\greis\\source\\repos\\Laboratorio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332B50A0-1CB0-450A-826D-69D87693823D}|Laboratorio4.csproj|C:\\Users\\greis\\source\\repos\\Laboratorio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{332B50A0-1CB0-450A-826D-69D87693823D}|Laboratorio4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B50A0-1CB0-450A-826D-69D87693823D}|Laboratorio4.csproj|c:\\users\\greis\\source\\repos\\laboratorio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B50A0-1CB0-450A-826D-69D87693823D}|Laboratorio4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B50A0-1CB0-450A-826D-69D87693823D}|Laboratorio4.csproj|C:\\Users\\greis\\source\\repos\\Laboratorio4\\conexi\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B50A0-1CB0-450A-826D-69D87693823D}|Laboratorio4.csproj|solutionrelative:conexi\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332B50A0-1CB0-450A-826D-69D87693823D}|Laboratorio4.csproj|C:\\Users\\greis\\source\\repos\\Laboratorio4\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332B50A0-1CB0-450A-826D-69D87693823D}|Laboratorio4.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\greis\\source\\repos\\Laboratorio4\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\greis\\source\\repos\\Laboratorio4\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T14:47:06.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\greis\\source\\repos\\Laboratorio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\greis\\source\\repos\\Laboratorio4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T14:18:20.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexi\u00F3n.cs",
+              "DocumentMoniker": "C:\\Users\\greis\\source\\repos\\Laboratorio4\\Conexi\u00F3n.cs",
+              "RelativeDocumentMoniker": "Conexi\u00F3n.cs",
+              "ToolTip": "C:\\Users\\greis\\source\\repos\\Laboratorio4\\Conexi\u00F3n.cs",
+              "RelativeToolTip": "Conexi\u00F3n.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwI8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T16:42:56.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\greis\\source\\repos\\Laboratorio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\greis\\source\\repos\\Laboratorio4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T15:05:14.328Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
