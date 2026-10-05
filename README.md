@@ -27,6 +27,13 @@ Implementar una interfaz gráfica en C# Windows Forms que permita capturar datos
 * **Conexión y Consultas:** Uso de parámetros seguros para evitar Inyección SQL
 * **Persistencia Binaria:** Conversión de imágenes a `byte[]` mediante `MemoryStream` y `Bitmap`.
 * **Operaciones CRUD:** Validación de tipos de datos y sincronización en tiempo real con `DataGridView`.
+  
+<img width="657" height="458" alt="image" src="https://github.com/user-attachments/assets/eadb8940-cbe2-4f30-977c-2174e672d8d7" />
+
+<img width="385" height="467" alt="image" src="https://github.com/user-attachments/assets/0c1933f3-d79d-4548-a1b3-b3d7a84ebb55" />
+
+<img width="392" height="470" alt="image" src="https://github.com/user-attachments/assets/c0c94fce-e631-4b53-8740-fd5a51911048" />
+
 
 ## Fecha de Ejecución
 24 de Septiembre de 2026
